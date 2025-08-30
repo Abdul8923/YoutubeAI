@@ -1,5 +1,5 @@
 {
-  "name": "Copy of YouTube Course Generator",
+  "name": "YoutubeCourse AI generator",
   "description": "An application that takes a YouTube video URL and generates a structured mini-course from its content, complete with modules, summaries, and quizzes, using the power of Gemini.",
   "requestFramePermissions": []
 }
